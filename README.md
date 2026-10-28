@@ -45,6 +45,6 @@ Os testes cobrem as três camadas, critérios de desempate, entradas incorretas 
 
 Seis times, 15 jogos, cinco rodadas, um empate em 0x0 e goleadas de três gols. Athletico e Operario terminam empatados em 9 pontos; o primeiro fica à frente pelo saldo de gols. Parana e Maringa empatam em 5 pontos; Parana fica à frente pelo saldo de gols.
 
-## Entrega
+## Grupo
 
-Publique esta pasta em um repositório GitHub acessível para o professor e envie a URL do repositório no Canvas.
+Ana Julia Caetano Bento, Deborah Santos Lizardo, Gabriela Sofia Aguilar Milani, Rafaella Somoza
